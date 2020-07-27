@@ -3,96 +3,97 @@ body {
   text-align: center;
 }
 
-img{
-  height: 300px;
-  width: 300px;
-
+#lulu {
+  font-size: 2rem;
+  color: #0f4c75;
 }
 
-p{
+img {
+  height: 300px;
+  width: 300px;
+}
+
+p {
   line-height: 2;
 }
 
-.p1{
+.p1 {
   color: #45967f;
 }
 
-hr{
+hr {
   border-style: dotted none none;
   width: 8%;
   border-width: 5px;
-  border-color: #45967f
+  border-color: #45967f;
 }
 
-h1{
+h1 {
   color: #45967f;
   padding-top: 3rem;
 }
 
-h2{
+h2 {
   margin-bottom: 2rem;
 }
 
-
-
-.hr-width{
+.hr-width {
   width: 8%;
   margin-top: 4rem;
   margin-bottom: 4rem;
 }
 
-.top-container{
+.top-container {
   background-color: #e0ebe8;
   height: 600px;
   position: relative;
-
 }
 
-.sud-img{
+.sud-img {
   position: absolute;
   right: 100px;
 }
 
-.land-img{
+.land-img {
   position: absolute;
 
-  top:300px;
-  left:100px;
-  width: 80%
+  top: 300px;
+  left: 100px;
+  width: 80%;
 }
 
-.paras{
+.paras {
   padding: 3% 25% 2% 25%;
 }
 
-.gmr{
+.gmr {
   background-color: #e0ebe8;
 }
 
-.car-imgs{
-  width:50rem;
+.car-imgs {
+  width: 50rem;
   height: 40rem;
 }
 
-.carousel-control-prev-icon{
+.carousel-control-prev-icon {
   background-color: green;
 }
 
-.carousel-control-next-icon{
+.carousel-control-next-icon {
   background-color: green;
 }
 
-.dcs{
-    color: #175445;
-    font-size: 1rem;
+.dcs {
+  color: #175445;
+  font-size: 1rem;
 }
 
-.docs{
+.docs {
   background-color: #e0ebe8;
   padding: 6% 25% 6% 25%;
 }
 
-.pad{
+.pad {
   margin-top: 3rem;
 }
 
@@ -118,7 +119,7 @@ h2{
   text-decoration: none;
 }
 
-.contact-pad{
+.contact-pad {
   margin-top: 3rem;
   margin-bottom: 3rem;
 }
