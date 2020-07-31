@@ -3,6 +3,24 @@ body {
   text-align: center;
 }
 
+@media (min-width: 1000px) {
+  .sud-img {
+    position: absolute;
+    top: 300px;
+  }
+}
+
+@media (max-width: 800px) {
+  p {
+    font-size: 20px;
+  }
+  .sud-img {
+    margin-top: 65px;
+    height: 250px;
+    width: 250px;
+  }
+}
+
 #lulu {
   font-size: 2rem;
   color: #0f4c75;
